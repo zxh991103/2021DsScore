@@ -1,1 +1,1 @@
-# 成绩管理系统
+# this is an easy manage system to record dsa score
